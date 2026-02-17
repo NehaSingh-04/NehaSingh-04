@@ -1,4 +1,4 @@
-<!-- Corporate GitHub Profile README (Light Pink Accents) -->
+<!-- Executive GitHub Profile | Light Pink Accent Theme -->
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 <h1 style="margin-bottom:0;">Neha Singh</h1>
 
 <p style="margin-top:6px;">
-  <b>Computer Science Student</b> • <b>Networking & Systems</b> • <b>Technical Support</b>
+  <b>Computer Science & Systems</b> • <b>Networking</b> • <b>Technical Operations</b>
 </p>
 
 <p>
@@ -24,58 +24,80 @@
 
 ---
 
-## 🎀 Profile Summary
+## 👩‍💻 Professional Overview
 
-Computer Science student with a strong interest in problem-solving and technology. I enjoy learning through hands-on experience, breaking down complex ideas, and continuously improving my skills — always curious, always learning.
+I focus on building structured, reliable technical systems with strong foundations in networking, automation, and operational support.  
 
----
-
-## 🧩 Core Strengths
-
-- **Network Design** • **Computer Networking** • **Network Engineering**
-- Technical & operational support across multiple teams
-- Research, data handling, and automation (scripts + structured workflows)
+My experience spans cross-functional technical coordination, structured data handling, and workflow optimization — always with clarity, efficiency, and scalability in mind.
 
 ---
 
-## 🛠️ Tech Stack (GitHub-Centred)
+## 🧩 Core Competencies
+
+- **Network Design & Infrastructure**
+- **Computer Networking**
+- **Automation & Workflow Optimization**
+- **Structured Data Handling**
+- **Technical & Operational Support**
+
+---
+
+## 🛠 Technical Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,css,mysql&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,css,mysql&perline=8" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Networking-f7b6c8?style=flat&labelColor=fff0f5&color=f7b6c8" />
   <img src="https://img.shields.io/badge/Automation-f7b6c8?style=flat&labelColor=fff0f5&color=f7b6c8" />
-  <img src="https://img.shields.io/badge/Data%20Handling-f7b6c8?style=flat&labelColor=fff0f5&color=f7b6c8" />
+  <img src="https://img.shields.io/badge/Data%20Systems-f7b6c8?style=flat&labelColor=fff0f5&color=f7b6c8" />
 </p>
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### Albertron Industries — Operational & Technical Support Intern (Aug 2025 – Nov 2025)
-- Supported multiple business units with technical + operational tasks, adapting to different workflows quickly.
-- Conducted market research (Cape Town & Johannesburg) and organised event listings for **What’s the Plan**.
-- Supported **UniLink** by shortlisting intern candidates and coordinating communication via email.
-- Assisted **OURS** with sourcing and organising large datasets and automating content downloads using scripts.
-- Liaised with external platforms for usage permissions to ensure compliant sourcing.
+### Albertron Industries — Operational & Technical Support  
+*Aug 2025 – Nov 2025*
 
-### IIE MSA — Tutor (Computer Networks) (Mar 2025 – Oct 2025)
-- Supported first-year students with core networking concepts and guided practical lab work.
-- Provided structured help for assignments and exam preparation to build confidence and independence.
+Provided adaptable technical and operational support across multiple business units.
 
----
-
-## 🎓 Education
-
-**IIE MSA** — Bachelor of Computer Sciences in Application Development (2024 – 2026)
+Key Contributions:
+- Cross-team coordination and workflow support  
+- Market research and structured event data management  
+- Candidate shortlisting and communication processes  
+- Dataset organization and automation scripting  
+- External platform liaison ensuring compliant content sourcing  
 
 ---
 
-## 🏆 Recognition
+### Academic Support — Computer Networks  
+*Mar 2025 – Oct 2025*
 
-- Golden Key International Honour Society — Member  
+Delivered structured support on networking fundamentals, routing concepts, and lab implementation while fostering independent problem-solving.
+
+---
+
+## 🚀 Highlighted Project
+
+### 🔹 Operations Management Console Application
+
+A structured, object-oriented application designed to manage workflow tasks, validate user input, and process organized data through modular architecture.
+
+Core Features:
+- Robust input validation and structured error handling  
+- Clear separation of business logic and control flow  
+- Modular class-based design for maintainability  
+- Scalable processing structure  
+
+Built with a focus on clarity, reliability, and structured system design.
+
+---
+
+## 🎖 Recognition
+
+- Golden Key International Honour Society  
 - Student Top Achiever Award  
 
 ---
@@ -87,15 +109,7 @@ Computer Science student with a strong interest in problem-solving and technolog
 
 ---
 
-## 📌 Featured Work (Pin these on your profile)
-
-✅ Networking Labs / Assignments  
-✅ Automation scripts (downloads, data handling, workflow tools)  
-✅ Any university projects showing backend / systems / tooling  
-
----
-
-## 📊 GitHub Snapshot
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -103,3 +117,10 @@ Computer Science student with a strong interest in problem-solving and technolog
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
 
 </div>
+
+---
+
+## 🔗 Connect
+
+- 📧 neha.singh.04.11.12@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/neha-singh12
